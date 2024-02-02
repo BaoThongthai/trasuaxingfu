@@ -36,7 +36,7 @@ const Register = () => {
       }
 
       // Đăng ký thành công, về thẳng login
-      navigate('/reactVTI');
+      navigate('/trasuaxingfu');
 
     } catch (error) {
       // Xử lý lỗi
@@ -96,7 +96,7 @@ const Register = () => {
             </Button>
 
             <p style={{ color: 'white' }}>
-              Bạn đã có tài khoản ? <Link to="/reactVTI">Login</Link>
+              Bạn đã có tài khoản ? <Link to="/trasuaxingfu">Login</Link>
             </p>
           </Form>
         </Col>

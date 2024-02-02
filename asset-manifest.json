@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/BaoThongthai/trasuaxingfu/static/css/main.e0baaf61.css",
-    "main.js": "/BaoThongthai/trasuaxingfu/static/js/main.c1dbadd3.js",
-    "static/js/787.3aeda83d.chunk.js": "/BaoThongthai/trasuaxingfu/static/js/787.3aeda83d.chunk.js",
-    "static/media/Background-loginvsregiter.mp4": "/BaoThongthai/trasuaxingfu/static/media/Background-loginvsregiter.2b4e7ec9e0b9ff435968.mp4",
-    "static/media/videobackground.mp4": "/BaoThongthai/trasuaxingfu/static/media/videobackground.2b4e7ec9e0b9ff435968.mp4",
-    "static/media/3.jpg": "/BaoThongthai/trasuaxingfu/static/media/3.1216661b67388185374b.jpg",
-    "static/media/bg2.jpg": "/BaoThongthai/trasuaxingfu/static/media/bg2.a8e671d51d8782e69f6e.jpg",
-    "static/media/bg3.jpg": "/BaoThongthai/trasuaxingfu/static/media/bg3.4c861622686d7a312463.jpg",
-    "static/media/logo.jpg": "/BaoThongthai/trasuaxingfu/static/media/logo.858445d7b5a1cbb9bec3.jpg",
-    "static/media/bg1.jpg": "/BaoThongthai/trasuaxingfu/static/media/bg1.ede98ed6922468487810.jpg",
-    "index.html": "/BaoThongthai/trasuaxingfu/index.html",
-    "main.e0baaf61.css.map": "/BaoThongthai/trasuaxingfu/static/css/main.e0baaf61.css.map",
-    "main.c1dbadd3.js.map": "/BaoThongthai/trasuaxingfu/static/js/main.c1dbadd3.js.map",
-    "787.3aeda83d.chunk.js.map": "/BaoThongthai/trasuaxingfu/static/js/787.3aeda83d.chunk.js.map"
+    "main.css": "/trasuaxingfu/static/css/main.e0baaf61.css",
+    "main.js": "/trasuaxingfu/static/js/main.c3a0baa8.js",
+    "static/js/787.3aeda83d.chunk.js": "/trasuaxingfu/static/js/787.3aeda83d.chunk.js",
+    "static/media/Background-loginvsregiter.mp4": "/trasuaxingfu/static/media/Background-loginvsregiter.2b4e7ec9e0b9ff435968.mp4",
+    "static/media/videobackground.mp4": "/trasuaxingfu/static/media/videobackground.2b4e7ec9e0b9ff435968.mp4",
+    "static/media/3.jpg": "/trasuaxingfu/static/media/3.1216661b67388185374b.jpg",
+    "static/media/bg2.jpg": "/trasuaxingfu/static/media/bg2.a8e671d51d8782e69f6e.jpg",
+    "static/media/bg3.jpg": "/trasuaxingfu/static/media/bg3.4c861622686d7a312463.jpg",
+    "static/media/logo.jpg": "/trasuaxingfu/static/media/logo.858445d7b5a1cbb9bec3.jpg",
+    "static/media/bg1.jpg": "/trasuaxingfu/static/media/bg1.ede98ed6922468487810.jpg",
+    "index.html": "/trasuaxingfu/index.html",
+    "main.e0baaf61.css.map": "/trasuaxingfu/static/css/main.e0baaf61.css.map",
+    "main.c3a0baa8.js.map": "/trasuaxingfu/static/js/main.c3a0baa8.js.map",
+    "787.3aeda83d.chunk.js.map": "/trasuaxingfu/static/js/787.3aeda83d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0baaf61.css",
-    "static/js/main.c1dbadd3.js"
+    "static/js/main.c3a0baa8.js"
   ]
 }

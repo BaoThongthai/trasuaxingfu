@@ -10,6 +10,7 @@ import Register from './components/Register/Register';
 import ShopList from './components/ShopList/ShopList';
 import HomePage from './components/HomePage/HomePage';
 import MenuHeader from './components/Navbar/MenuHeader';
+import NewPage from './components/newInfo/NewPage';
 function App() {
   return (
     <Provider store={store}>
@@ -19,6 +20,7 @@ function App() {
           <Routes>
             <Route path="/trasuaxingfu" element={<Login />} />
 			<Route path="/register" element={<Register />} />
+			<Route path="/new" element={<NewPage />} />
             <Route element={<MenuHeader />}>
               <Route path="/productList" element={<ProductList />} />
               <Route path="/ShopList" element={<ShopList />} />
